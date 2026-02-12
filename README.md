@@ -1,10 +1,9 @@
-# Portfólio de Projetos - Anna Clara Neri
+# 📂 Portfólio de Projetos - Anna Clara Neri
 
-Estudante de Engenharia de Sistemas com foco em desenvolvimento e tecnologia.
-
-Aqui estão alguns projetos acadêmicos e pessoais desenvolvidos para praticar programação e lógica.
+Bem-vinda(o)! Aqui estão meus principais projetos acadêmicos e pessoais.
 
 ## Projetos
-• Página Web Responsiva (HTML/CSS)
-• Scripts de Lógica em JavaScript
-• Exercícios de SQL
+🔹 To-Do List JS → https://github.com/AnnaClaraNeri/todo-list-js  
+🔹 Página Web → https://github.com/AnnaClaraNeri/pagina-web-responsiva  
+🔹 JavaScript Lógica → https://github.com/AnnaClaraNeri/exercicios-javascript  
+🔹 SQL → https://github.com/AnnaClaraNeri/consultas-sql-basicas
